@@ -55,7 +55,7 @@
       }
     ],
     "favicon": false,
-    "mbrsiteDomain": "kgj4xmoevr",
+    "mbrsiteDomain": "zy4qovt4wq",
     "imageResize": false,
     "usedWebp": false,
     "robotsSwitcher": false,
@@ -67,7 +67,8 @@
     "uniqCompNum": 107,
     "versionPublish": "5.8.4",
     "screenshot": "screenshot.png",
-    "publishChangesOnly": true
+    "publishChangesOnly": true,
+    "chatbutton": {}
   },
   "pages": {
     "index.html": {
